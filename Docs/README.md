@@ -1,1 +1,1 @@
-The documents in this folder will house proposal of final project. 
+This folder contains proposal of final project for Data 606. 

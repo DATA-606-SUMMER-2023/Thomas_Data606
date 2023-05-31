@@ -9,9 +9,6 @@
 
 # <img src="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" width="250" height="150"> 
 
-# ![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/cc249ec7-555a-47ee-87bd-b8cda4930ebd)
-
-
 # Project - Predicting Qualifying Time and Race Results 
 
 # Overview: 
@@ -31,24 +28,28 @@ First, a higher qualifying position increases the chances of scoring more champi
 - size 
 - attributes
 
-#  Techniques and Models 
+#  Techniques and Models: 
 - Linear Regression 
 - Random Forest Classifier 
 
-# Task 
+# Task: 
 - Data cleaning and wrangling 
 - Understanding data sources 
 - Prepare feature and target variables
 - Split data into train and test data 
 - Perform regression (linear regression) and classification (random forest classifier) model 
-- Check for best performance of model 
+- Check for best performance
 
-# Hypothesis / Research Question(s) 
-- 
+# Research Question(s):  
+- Does driver who secure pole position go on to win the race? 
+- Does starting position set during qualifying session impact driver's chances of achieving top position or podium? 
+- Who has top podium finishes? 
+- Who has top qualiyfing lap times? 
 
+# Outcome: 
+The goal of this project is to demonstrate whether setting the fastest qualifying time impacts Grand Prix winners on race day. Audiences will be able to summarize the relationship between qualifying times and race winners on analysis performed. 
 
 
 # References: 
 - https://corp.formula1.com/about-f1/
 - https://www.fia.com/events/fia-formula-one-world-championship/season-2023/2023-fia-formula-one-world-championship
-- https://www.bruinsportsanalytics.com/post/formula1_qualifying

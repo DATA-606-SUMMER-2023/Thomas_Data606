@@ -22,6 +22,26 @@ First, a higher qualifying position increases the chances of scoring more champi
 2. Enhances driver performance and confidence 
 3. Attracts attention from sponsors, fans, partners, and gain viewership 
 
+# Data Source: 
+- source
+- quality 
+- size 
+- attributes
+
+#  Techniques and Models 
+- Linear Regression 
+- Random Forest Classifier 
+
+# Task 
+- Data cleaning and wrangling 
+- Understanding data sources 
+- Prepare feature and target variables
+- Split data into train and test data 
+- Perform regression (linear regression) and classification (random forest classifier) model 
+- Check for best performance
+
+# Hypothesis / Research Question(s) 
+- 
 
 
 

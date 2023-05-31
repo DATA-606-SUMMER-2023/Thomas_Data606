@@ -9,6 +9,9 @@
 
 # <img src="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" width="250" height="150"> 
 
+# ![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/183f17b8-6693-4564-8682-514819cc3f71)
+
+
 # Project - Predicting Qualifying Time and Race Results 
 
 # Overview: 

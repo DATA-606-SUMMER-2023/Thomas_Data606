@@ -12,7 +12,7 @@
 # ![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/183f17b8-6693-4564-8682-514819cc3f71)
 
 
-# Project - Predicting Qualifying Time and Race Results 
+# Project - Predicting Qualifying Time and Race Results (2000-2023)
 
 # Overview: 
 Formula 1, often abbreviated as F1, is known as the pinnacle of motorsport racing. It is one of world's most prestigious international single-seater auto racing. Formula 1 world championship is organized by Federation International Automobile (FIA), which consist of multiple races called Grand Prix, held on various circuits around the world. The championship is won by teams and each with two drivers. These technical teams design, develop, test, and race their built cars, which are subject to strict regulations and budget cap by FIA. Qualifying sessions in F1 determines the starting positions for each car on the grid for race day. During qualifying, setting the fastest lap time determines the starting position for the grid, so it is crucial as it sets the stage for the race and significantly impact driver's success of being a Grand Prix winner on race day. Therefore, this model will provide whether qualifying time and race winners have a significant impact. 

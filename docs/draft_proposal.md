@@ -45,7 +45,7 @@ First, a higher qualifying position increases the chances of scoring more champi
 
 # Research Question(s):  
 - Who has top podium finishes? 
-- Who has top qualiyfing lap times? 
+- Who has top qualiyfing lap times on each track? 
 - Does driver who secure pole position go on to win the race? 
 - Does starting position set during qualifying session impact driver's chances of achieving top position or podium? 
 

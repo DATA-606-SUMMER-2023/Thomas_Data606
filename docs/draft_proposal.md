@@ -9,6 +9,9 @@
 
 # <img src="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" width="250" height="150"> 
 
+# ![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/cc249ec7-555a-47ee-87bd-b8cda4930ebd)
+
+
 # Project - Predicting Qualifying Time and Race Results 
 
 # Overview: 
@@ -38,7 +41,7 @@ First, a higher qualifying position increases the chances of scoring more champi
 - Prepare feature and target variables
 - Split data into train and test data 
 - Perform regression (linear regression) and classification (random forest classifier) model 
-- Check for best performance
+- Check for best performance of model 
 
 # Hypothesis / Research Question(s) 
 - 
@@ -48,3 +51,4 @@ First, a higher qualifying position increases the chances of scoring more champi
 # References: 
 - https://corp.formula1.com/about-f1/
 - https://www.fia.com/events/fia-formula-one-world-championship/season-2023/2023-fia-formula-one-world-championship
+- https://www.bruinsportsanalytics.com/post/formula1_qualifying

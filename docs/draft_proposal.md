@@ -1,7 +1,7 @@
 # Draft Proposal for Capstone Project
 
-Name: Thomas Nguyen 
+**Name:** Thomas Nguyen 
 
-Course: Data 606 
+**Course:** Data 606 
 
-Instructor: Dr. Charojie (Jay) Wang
+**Instructor:** Dr. Charojie (Jay) Wang

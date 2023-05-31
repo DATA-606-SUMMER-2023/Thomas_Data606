@@ -41,10 +41,10 @@ First, a higher qualifying position increases the chances of scoring more champi
 - Check for best performance
 
 # Research Question(s):  
-- Does driver who secure pole position go on to win the race? 
-- Does starting position set during qualifying session impact driver's chances of achieving top position or podium? 
 - Who has top podium finishes? 
 - Who has top qualiyfing lap times? 
+- Does driver who secure pole position go on to win the race? 
+- Does starting position set during qualifying session impact driver's chances of achieving top position or podium? 
 
 # Outcome: 
 The goal of this project is to demonstrate whether setting the fastest qualifying time impacts Grand Prix winners on race day. Audiences will be able to summarize the relationship between qualifying times and race winners on analysis performed. 
@@ -53,3 +53,4 @@ The goal of this project is to demonstrate whether setting the fastest qualifyin
 # References: 
 - https://corp.formula1.com/about-f1/
 - https://www.fia.com/events/fia-formula-one-world-championship/season-2023/2023-fia-formula-one-world-championship
+- https://www.bruinsportsanalytics.com/post/formula1_qualifying

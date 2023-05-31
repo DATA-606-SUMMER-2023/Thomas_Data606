@@ -1,1 +1,2 @@
-This folder contains proposal of final project for Data 606. 
+This Docs folder will contain proposal of final project for Data 606. 
+1. fsdfs

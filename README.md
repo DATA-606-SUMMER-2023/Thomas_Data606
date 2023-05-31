@@ -2,5 +2,5 @@
 
 # UMBC Data Science Project 
 
-Author: Thomas Nguyen
-Term: Summer 2023
+- **Author:** Thomas Nguyen 
+- **Term:** Summer 2023

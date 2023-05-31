@@ -1,2 +1,2 @@
-# Folder for documentations 
+# Documentations
 1. Draft Proposal

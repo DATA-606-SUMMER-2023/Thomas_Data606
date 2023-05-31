@@ -1,1 +1,1 @@
-# Draft Proposal
+# Draft Proposal for Capstone Project

@@ -57,3 +57,4 @@ The goal of this project is to demonstrate whether setting the fastest qualifyin
 - https://corp.formula1.com/about-f1/
 - https://www.fia.com/events/fia-formula-one-world-championship/season-2023/2023-fia-formula-one-world-championship
 - https://www.bruinsportsanalytics.com/post/formula1_qualifying
+- https://www.f1-fansite.com/f1-teams/f1-teams-2023/

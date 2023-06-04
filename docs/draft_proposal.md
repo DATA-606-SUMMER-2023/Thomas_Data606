@@ -28,13 +28,64 @@ First, a higher qualifying position increases the chances of scoring more champi
 # Data Source: 
 - **Source:** Formula 1 datasets is compiled from http://ergast.com/mrd/ obtained through kaggle. The data consist of 14 CSV files that contains a total of 120 columns. However, for the purpose of this project we will be using ***6*** dataset where they contain ***circuits, drivers, qualifying, races, results, and status***
 - **Dataset:** 
-  - **Size:** 20.14 MB 
-  - **Columns:** 12 columns 
+  - **Size:** 175.7+ MB 
+  - **Columns:** 13 columns 
+- **Variables and Dtypes in Dataset**: 
+  - result_id (int64): A unique Id of the results for each driver 
+  - race_id (int64): A unique Id of each race 
+  - year (int64): Year for each race 
+  - grand_prix (object): The actual name for each circuit 
+  - circuit_name (object): Name of circuit 
+  - country (object): Country each circuit is located
+  - q1 (object): Time in qualifying 1 
+  - q2 (object): Time in qualifying 2 
+  - q3 (object): Time in qualifying 3 
+  - driver_name (object): The drivers first name and last name 
+  - starting_position (int64): Starting position of where each driver starts on race day
+  - final_position (object): Final position of where each driver finishes on race day
+  - status (object): Race status for each driver 
+  
 
 
 #  Techniques and Models: 
 - Linear Regression 
 - Random Forest Classifier 
+
+# Use of the dataset: 
+For the Formula 1 dataset, the columns provided to perform our model of Linear Regression and Random Forest Classification, there are few labels and features for performing the model to predict the impact of qualifying time and race results. 
+
+**Labels and Variables to perform our Model (Linear Regression and Random Forest Classifier)** 
+
+**Linear Regression**: 
+For predicting the impact of qualifying time and race result winners on race day, we will have feature and target variable of the following: 
+
+Features:  
+For the features of Linear Regression, predicting the impact of qualifying time on race results, the features will include: 
+- **q1**: Qualifying time in session 1. 
+- **q2**: Qualifying time in session 2. 
+- **q3**: Qualifying time in session 3. 
+
+Target:
+- **final_position**: Final position of where each driver finishes on race day. 
+
+
+**Random Forest Classification**: 
+For predicting the impact of qualifying time on race results, performing Random Forest classifier the features and target will include a combination of the following: 
+
+Features 
+- **year**: Year for each race 
+- **grand_prix**: The actual name for each circuit 
+- **circuit_name**: Name of circuit 
+- **country**: Country each circuit is located
+- **q1**: Time in qualifying 1 
+- **q2**: Time in qualifying 2 
+- **q3**: Time in qualifying 3 
+- **driver_name**: The drivers first name and last name 
+- **starting_position**: Starting position of where each driver starts on race day
+
+Target: 
+- **status**: Race status for each driver. This variable represents the outcome or result of the driver in the race, such as whether they finished ('Finished'),  DNF ('Did not finish'), or other status. 
+
 
 # Task: 
 - Data cleaning and wrangling 

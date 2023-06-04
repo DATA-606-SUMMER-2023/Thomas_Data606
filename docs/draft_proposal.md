@@ -30,6 +30,7 @@ First, a higher qualifying position increases the chances of scoring more champi
 - **Dataset:** 
   - **Size:** 175.7+ MB 
   - **Columns:** 13 columns 
+
 - **Variables and Dtypes in Dataset**: 
   - result_id (int64): A unique Id of the results for each driver 
   - race_id (int64): A unique Id of each race 

@@ -73,7 +73,7 @@ Target:
 **Random Forest Classification**: 
 For predicting the impact of qualifying time on race results, performing Random Forest classifier the features and target will include a combination of the following: 
 
-Features 
+Features:
 - **year**: Year for each race 
 - **grand_prix**: The actual name for each circuit 
 - **circuit_name**: Name of circuit 

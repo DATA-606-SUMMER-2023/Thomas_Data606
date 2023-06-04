@@ -26,7 +26,7 @@ First, a higher qualifying position increases the chances of scoring more champi
 3. Attracts attention from sponsors, fans, partners, and gain viewership 
 
 # Data Source: 
-- **Source:** Formula 1 datasets is compiled from http://ergast.com/mrd/ obtained through kaggle. The data consist of 14 CSV files that contains a total of 120 columns. However, for the purpose of this project we will be using ***6*** dataset where they contain ***circuits, drivers, qualifying, races, results, and status***
+- **Source:** Formula 1 datasets is compiled from http://ergast.com/mrd/ obtained through kaggle. The data consist of 14 CSV files that contains a total of 120 columns. However, for the purpose of this project we will be using ***6*** dataset where they contain **circuits, drivers, qualifying, races, results, and status**
 - **Dataset:** 
   - **Size:** 175.7+ MB 
   - **Columns:** 13 columns 

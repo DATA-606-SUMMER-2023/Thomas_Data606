@@ -54,7 +54,9 @@ First, a higher qualifying position increases the chances of scoring more champi
 # Use of the dataset: 
 For the Formula 1 dataset, the columns provided to perform our model of Linear Regression and Random Forest Classification, there are few labels and features for performing the model to predict the impact of qualifying time and race results. 
 
-**Labels and Variables to perform our Model (Linear Regression and Random Forest Classifier)** 
+**Labels and Variables to perform our Model** 
+1. Linear Regression 
+2. Random Forest Classifier
 
 **Linear Regression**: 
 For predicting the impact of qualifying time and race result winners on race day, we will have feature and target variable of the following: 
@@ -67,9 +69,6 @@ For the features of Linear Regression, predicting the impact of qualifying time 
 
 Target:
 - **final_position**: Final position of where each driver finishes on race day. 
-
-
-
 
 **Random Forest Classification**: 
 For predicting the impact of qualifying time on race results, performing Random Forest classifier the features and target will include a combination of the following: 

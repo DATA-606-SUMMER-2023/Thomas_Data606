@@ -69,6 +69,8 @@ Target:
 - **final_position**: Final position of where each driver finishes on race day. 
 
 
+
+
 **Random Forest Classification**: 
 For predicting the impact of qualifying time on race results, performing Random Forest classifier the features and target will include a combination of the following: 
 

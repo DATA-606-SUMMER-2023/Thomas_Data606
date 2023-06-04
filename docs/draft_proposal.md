@@ -94,7 +94,9 @@ Target:
 - Understanding data sources 
 - Prepare feature and target variables
 - Split data into train and test data 
-- Perform regression (linear regression) and classification (random forest classifier) model 
+- Perform models 
+  - regression: Linear Regression 
+  - classification: Random Forest Classifier
 - Check for best performance
 
 # Research Question(s):  

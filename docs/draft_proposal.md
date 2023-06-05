@@ -67,6 +67,7 @@ For the features of Linear Regression, predicting the impact of qualifying time 
 - **starting_position**: Starting position of where each driver starts on race day
 - **year**: Year for each race 
 - **driver_name**: The drivers first name and last name 
+- **q3**: Time in qualifying 3 
 
 Target:
 - **final_position**: Final position of where each driver finishes on race day. 
@@ -79,8 +80,6 @@ Features:
 - **grand_prix**: The actual name for each circuit 
 - **circuit_name**: Name of circuit 
 - **country**: Country each circuit is located
-- **q1**: Time in qualifying 1 
-- **q2**: Time in qualifying 2 
 - **q3**: Time in qualifying 3 
 - **driver_name**: The drivers first name and last name 
 - **starting_position**: Starting position of where each driver starts on race day

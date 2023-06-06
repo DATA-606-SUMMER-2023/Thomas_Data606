@@ -33,7 +33,6 @@ First, a higher qualifying position increases the chances of scoring more champi
 
 - **Variables and Dtypes in Dataset**: 
   - result_id (int64): A unique Id of the results for each driver 
-  - race_id (int64): A unique Id of each race 
   - year (int64): Year for each race 
   - grand_prix (object): The actual name for each circuit 
   - circuit_name (object): Name of circuit 

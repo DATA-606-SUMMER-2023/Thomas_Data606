@@ -64,7 +64,6 @@ For predicting the impact of qualifying time and race result winners on race day
 
 Features:  
 For the features of Linear Regression, predicting the impact of qualifying time on race results, the features will include: 
-- **starting_position**: Starting position of where each driver starts on race day
 - **year**: Year for each race 
 - **driver_name**: The drivers first name and last name 
 - **q3**: Time in qualifying 3 

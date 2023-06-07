@@ -56,7 +56,6 @@ For the Formula 1 dataset, the columns provided to perform our model of Random F
 
 **Labels and Variables to perform our Model** 
 1. Random Forest Classifier
-2. 
 
 **Random Forest Classification**: 
 For predicting the impact of qualifying time on race results, performing Random Forest classifier the features and target will include a combination of the following: 

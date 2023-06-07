@@ -64,7 +64,7 @@ Features:
 - **grand_prix**: The actual name for each circuit 
 - **q3**: Time in qualifying 3 
 - **duration**: How long each driver are in the pits 
-- **num_spots**: Number of times each drivers spots during race
+- **num_spots**: Number of times each drivers stops during race
 - **starting_position**: Starting position of where each driver starts on race day
 
 Target: 

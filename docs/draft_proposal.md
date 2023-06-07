@@ -49,7 +49,6 @@ First, a higher qualifying position increases the chances of scoring more champi
 
 #  Techniques and Models: 
 - Classification
-  - Random Forest Classifier 
 
 # Use of the dataset: 
 For the Formula 1 dataset, the columns provided to perform our model of Random Forest Classification, there are few labels and features for performing the model to predict the impact of qualifying time and race results. 
@@ -62,6 +61,8 @@ For predicting the impact of qualifying time on race results, performing Random 
 
 Features:
 - **grand_prix**: The actual name for each circuit 
+- **q1**: Time in Qualifying 1
+- **q2**: Time in Qualifying 2
 - **q3**: Time in qualifying 3 
 - **duration**: How long each driver are in the pits 
 - **num_spots**: Number of times each drivers stops during race

@@ -109,6 +109,8 @@ Given the data source, there are few questions in my analysis that I would like 
 3. Does weather condition impact more crashes? 
 
 # Outcome: 
-The goal of this project is to predict 
+The goal of this project is to predict the types and serverity of crashes in the state of Maryland using ML. Prediction will help audiences understand the nature of accidents that occurred through various types of accidents. 
+
+
 
 

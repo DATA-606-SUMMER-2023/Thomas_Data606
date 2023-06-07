@@ -36,7 +36,7 @@ The crash data for Maryland is obtained from https://opendata.maryland.gov/. Cra
 - **FIX_OBJ_DESC:** Description of property near accident 
 - **FIX_OBJ_CODE:** Values presented by FIX_OBJ_DESC
 - **REPORT_NO:** Report number presented on file for each accident
-- **REPORT_TYPE:** Type of accident reported (Property, Fatal, or injury crash) 
+- **REPORT_TYPE:** Type of accident reported (Property, fatal, or injury crash) 
 - **WEATHER_DESC:** Description of weather condition (Blowing sand, clear, raining) 
 - **WEATHER_CODE:** Values presented by WEATHER_DESC
 - **ACC_DATE:** Accident Date
@@ -70,3 +70,45 @@ The crash data for Maryland is obtained from https://opendata.maryland.gov/. Cra
 - **LONGITUDE:** Longtitude of accident
 - **LOCATION:** Combination of latitude and longtitude 
 - **Counties:** Unknown column 
+
+# Use of Data: 
+**Predicting Crashes** 
+
+Crash severity classification: 
+- Features: 
+  - COUNTY_DESC: Description of countries in Maryland 
+  - LIGHT_DESC: Description of light time (Daylight, Dark, etc.) 
+  - SURF_COND_DESC: Description of surface condition (Dry, Wet, etc.) 
+  - WEATHER_DESC: Description of weather (blowing sand, clear, raining) 
+
+- Target: 
+  - REPORT_TYPE: Type of accident reported (Property, fatal, or injury crash) 
+
+Crash Type Classification: 
+- Features: 
+  - COUNTY_DESC: Description of countries in Maryland
+  - WEATHER_DESC: Description of weather (blowing sand, clear, raining) 
+  - SURF_COND_DESC: Description of surface condition (Dry, wet, etc.) 
+  - RD_COND_DESC: Description of the road condition (No defects or defects)
+  - HARM_EVENT_DESC1: Description of the cause of accident
+  - HARM_EVENT_DESC2: Description of the cause of accident
+
+- Target: 
+  - COLLISION_TYPE_DESC: Description of collision (Head on righ turn, same direction rear end, etc.) 
+
+# Technique and Models: 
+Machine Learning Models - **Classification Models:**
+- Logistic Regression 
+- Decision Tree
+- Random Forest 
+
+# Research Question(s): 
+Given the data source, there are few questions in my analysis that I would like to address: 
+1. What is the number of crashes that occurred for each county?
+2. Number of crashes for each year? 
+3. Does weather condition impact more crashes? 
+
+# Outcome: 
+The goal of this project is to predict 
+
+

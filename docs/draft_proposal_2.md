@@ -99,7 +99,6 @@ Crash Type Classification:
 # Technique and Models: 
 Machine Learning Models - **Classification Models:**
 - Logistic Regression 
-- Decision Tree
 - Random Forest 
 
 # Research Question(s): 

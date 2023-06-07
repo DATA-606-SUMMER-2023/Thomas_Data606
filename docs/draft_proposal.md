@@ -48,43 +48,26 @@ First, a higher qualifying position increases the chances of scoring more champi
 
 
 #  Techniques and Models: 
-- Linear Regression 
-- Random Forest Classifier 
+- Classification
+  - Random Forest Classifier 
 
 # Use of the dataset: 
-For the Formula 1 dataset, the columns provided to perform our model of Linear Regression and Random Forest Classification, there are few labels and features for performing the model to predict the impact of qualifying time and race results. 
+For the Formula 1 dataset, the columns provided to perform our model of Random Forest Classification, there are few labels and features for performing the model to predict the impact of qualifying time and race results. 
 
 **Labels and Variables to perform our Model** 
-1. Linear Regression 
-2. Random Forest Classifier
-
-**Linear Regression**: 
-For predicting the impact of qualifying time and race result winners on race day, we will have feature and target variable of the following: 
-
-Features:  
-For the features of Linear Regression, predicting the impact of qualifying time on race results, the features will include: 
-- **year**: Year for each race 
-- **driver_name**: The drivers first name and last name 
-- **q3**: Time in qualifying 3 
-
-Target:
-- **final_position**: Final position of where each driver finishes on race day. 
+1. Random Forest Classifier
 
 **Random Forest Classification**: 
 For predicting the impact of qualifying time on race results, performing Random Forest classifier the features and target will include a combination of the following: 
 
 Features:
-- **year**: Year for each race 
 - **grand_prix**: The actual name for each circuit 
 - **circuit_name**: Name of circuit 
-- **country**: Country each circuit is located
 - **q3**: Time in qualifying 3 
-- **driver_name**: The drivers first name and last name 
 - **starting_position**: Starting position of where each driver starts on race day
 
 Target: 
-- **status**: Race status for each driver. This variable represents the outcome or result of the driver in the race, such as whether they finished ('Finished'),  DNF ('Did not finish'), or other status. 
-
+- **final_position**: Final position of where each driver finishes on race day
 
 # Task: 
 - Data cleaning and wrangling 

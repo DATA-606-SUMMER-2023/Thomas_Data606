@@ -111,6 +111,7 @@ Given the data source, there are few questions in my analysis that I would like 
 # Outcome: 
 The goal of this project is to predict the types and serverity of crashes in the state of Maryland using ML. Prediction will help audiences understand the nature of accidents that occurred through various types of accidents. 
 
-
+# References: 
+- https://www.richinandgaines.com/blog/2022/09/maryland-ranks-6th-in-the-nation-for-car-crashes/
 
 

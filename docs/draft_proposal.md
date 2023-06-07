@@ -56,14 +56,16 @@ For the Formula 1 dataset, the columns provided to perform our model of Random F
 
 **Labels and Variables to perform our Model** 
 1. Random Forest Classifier
+2. 
 
 **Random Forest Classification**: 
 For predicting the impact of qualifying time on race results, performing Random Forest classifier the features and target will include a combination of the following: 
 
 Features:
 - **grand_prix**: The actual name for each circuit 
-- **circuit_name**: Name of circuit 
 - **q3**: Time in qualifying 3 
+- **duration**: How long each driver are in the pits 
+- **num_spots**: Number of times each drivers spots during race
 - **starting_position**: Starting position of where each driver starts on race day
 
 Target: 

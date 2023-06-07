@@ -103,7 +103,7 @@ Target:
 - Does starting position set during qualifying session impact driver's chances of achieving top position or podium? 
 
 # Outcome: 
-The goal of this project is to demonstrate whether setting the fastest qualifying time impacts Grand Prix winners on race day. Audiences will be able to summarize the relationship between qualifying times and race winners on analysis performed. 
+The goal of this project is to demonstrate whether setting the fastest qualifying time impacts Grand Prix winners on race day. We will be predicting whether qualifying time (Q3) will result in Grand Prix or race winners. Audiences will be able to summarize the relationship between qualifying times and race winners on analysis performed. 
 
 
 # References: 

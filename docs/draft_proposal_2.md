@@ -84,18 +84,6 @@ Crash severity classification:
 - Target: 
   - REPORT_TYPE: Type of accident reported (Property, fatal, or injury crash) 
 
-Crash Type Classification: 
-- Features: 
-  - COUNTY_DESC: Description of countries in Maryland
-  - WEATHER_DESC: Description of weather (blowing sand, clear, raining) 
-  - SURF_COND_DESC: Description of surface condition (Dry, wet, etc.) 
-  - RD_COND_DESC: Description of the road condition (No defects or defects)
-  - HARM_EVENT_DESC1: Description of the cause of accident
-  - HARM_EVENT_DESC2: Description of the cause of accident
-
-- Target: 
-  - COLLISION_TYPE_DESC: Description of collision (Head on righ turn, same direction rear end, etc.) 
-
 # Technique and Models: 
 Machine Learning Models - **Classification Models:**
 - Logistic Regression 

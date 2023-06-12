@@ -80,6 +80,7 @@ Crash severity classification:
   - LIGHT_DESC: Description of light time (Daylight, Dark, etc.) 
   - SURF_COND_DESC: Description of surface condition (Dry, Wet, etc.) 
   - WEATHER_DESC: Description of weather (blowing sand, clear, raining) 
+  - Etc. (More features will be added to perform ML) 
 
 - Target: 
   - REPORT_TYPE: Type of accident reported (Property, fatal, or injury crash) 

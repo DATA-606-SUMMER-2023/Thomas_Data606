@@ -5,8 +5,8 @@
 The data for Maryland vehicle crashes is obtained from **https://opendata.maryland.gov/.** Maryland Vehicle dataset is downloaded via CSV (file is too large to upload to Github). 
 
 **Dataset**: 
-- Columns: 56
-- Rows: 878343
+- Columns: 56 columns 
+- Rows: 878343 entries
 - Size: 334.8 MB 
 
 

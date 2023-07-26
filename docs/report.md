@@ -191,4 +191,4 @@ In order to pursure further research and obtain better perform:
 - https://www.richinandgaines.com/blog/2022/09/maryland-ranks-6th-in-the-nation-for-car-crashes/
 - https://insurify.com/insights/states-car-accidents-2022
 - https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu
-
+- https://www.trollingerlaw.com/car-accident-statistics/#:~:text=The%20most%20current%20car%20crash,county%20roads%20(23%20percent).

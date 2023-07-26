@@ -142,37 +142,37 @@ We performed the three machine learning classification models (Random Forest, Lo
 
 Accuracy of Random Forest algorithm is about **72%**
 
-<img src="ml/random_forest_result.jpg" width="650" height="350">
+<img src="" width="650" height="350">
 
 Accuracy of Logistic Regression algorithm is about **72%**
 
-<img src="ml/logistic_regression_result.jpg" width="650" height="350">
+<img src="" width="650" height="350">
 
 Accuracy of Decision Tree model algorithm is about **68%**
 
-<img src="ml/decision_tree_result.jpg" width="650" height="350">
+<img src="" width="650" height="350">
 
 
 ### ROC Curve:
 
 **ROC Curve for Random Forest**
 
-<img src="ml/roc_curve_random_forest.jpg" width="400" height="350">
+<img src="" width="400" height="350">
 
 **ROC Curve for Logistic Regression**
 
-<img src="ml/roc_curve_logistic_regression.jpg" width="400" height="350">
+<img src="" width="400" height="350">
 
 **ROC Curve for Decision Tree**
 
-<img src="ml/roc_curve_decision_tree.jpg" width="400" height="350">
+<img src="" width="400" height="350">
 
 
 ### Confusion Matrix 
 
 The confusion matrix displays the predicted and actual values of the best performed model. (Property Damage Crash vs Severe Crash)
 
-<img src="ml/confusion_matrix.jpg" width="400" height="350">
+<img src="" width="400" height="350">
 
 # Conclusion
 Based on the overall results, random forest model and ROC curve value of .67 suggest that it provides a better discrimination compared to logistic regression and decision tree. 

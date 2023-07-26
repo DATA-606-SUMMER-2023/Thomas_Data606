@@ -138,3 +138,51 @@ The various classification models selected will be executed to create statistica
 # Results of Models 
 We performed the three machine learning classification models (Random Forest, Logistic Regression, and Decision Tree) on the features (parameters) to predict our target variable. Classification model are showed along with accuracy score, ROC curve, and area of ROC Curve. 
 
+### Classification Models:
+
+Accuracy of Random Forest algorithm is about **72%**
+
+<img src="/ml/random_forest_result.jpg" width="650" height="350">
+
+Accuracy of Logistic Regression algorithm is about **72%**
+
+<img src="/ml/logistic_regression_result.jpg" width="650" height="350">
+
+Accuracy of Decision Tree model algorithm is about **68%**
+
+<img src="/ml/decision_tree_result.jpg" width="650" height="350">
+
+
+### ROC Curve:
+
+**ROC Curve for Random Forest**
+
+<img src="/ml/roc_curve_random_forest.jpg" width="400" height="350">
+
+**ROC Curve for Logistic Regression**
+
+<img src="/ml/roc_curve_logistic_regression.jpg" width="400" height="350">
+
+**ROC Curve for Decision Tree**
+
+<img src="/ml/roc_curve_decision_tree.jpg" width="400" height="350">
+
+
+### Confusion Matrix 
+
+The confusion matrix displays the predicted and actual values of the best performed model. (Property Damage Crash vs Severe Crash)
+
+<img src="/ml/confusion_matrix.jpg" width="400" height="350">
+
+# Conclusion
+Based on the overall results, random forest model and ROC curve value of .67 suggest that it provides a better discrimination compared to logistic regression and decision tree. 
+
+Although, logistic regression and random forest classification have the same accuracy of .72 (72%), comparing the ROC curve of .67 (67%) a higher ROC curve indicates a better distinction between positive and negative classes. The model provides a higher probability of correctly classifying 'Severe Crash' as positive instances.
+
+Random Forest classification model is the better model to proceed with as it has higher ROC curve value indicating better overall performance in the target variable.
+
+# Next Steps
+In order to pursure further research and obtain better perform: 
+- Think of other ML and analysis to perform with the dataset 
+- Explore new features that could improve performance
+- Obtain more data each year for better accuracy 

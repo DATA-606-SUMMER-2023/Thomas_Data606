@@ -174,6 +174,20 @@ The confusion matrix displays the predicted and actual values of the best perfor
 
 <img src="ml/confusion_matrix.jpg" width="400" height="350">
 
+# Conclusion
+Based on the overall results, random forest model and ROC curve value of .67 suggest that it provides a better discrimination compared to logistic regression and decision tree. 
+
+Although, logistic regression and random forest classification have the same accuracy of .72 (72%), comparing the ROC curve of .67 (67%) a higher ROC curve indicates a better distinction between positive and negative classes. The model provides a higher probability of correctly classifying 'Severe Crash' as positive instances.
+
+Random Forest classification model is the better model to proceed with as it has higher ROC curve value indicating better overall performance in the target variable.
+
+# Next Steps
+In order to pursure further research and obtain better perform: 
+- Think of other ML and analysis to perform with the dataset 
+- Explore new features that could improve performance
+- Obtain more data each year for better accuracy 
+
+
 
 
 

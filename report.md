@@ -20,4 +20,75 @@ According to Insurify, Gardner and Vohra who are data experts in vehicle, proper
 # Overview of Data Source
 The crash data for Maryland is obtained from https://opendata.maryland.gov/. Crash data in Maryland are reported from January 2015 through December 2022. The dataset contains total of 56 columns and 878343 entries. The dataset is downloaded as a CSV file. In the state of Maryland, on average there are 115,555 car accidents each year over five-year period. This is one of the highest percentage of car crashes on highways and county roads.
 
+## Use of Data
+
+### Columns: 
+<table> 
+<tr><th></th> <th><th>Target</th></tr>
+<tr><td>
+
+| Features| 
+| --- |
+| **COUNTY_DESC:** Counties in Maryland (Montgomery, Frederick, Howard, etc.) |
+| **YEAR:** Values of year the crash occurred 2015-2022 |
+| **QUARTER:** Values of each quarter (Q1, Q2, Q3, Q4) |
+| **COLLISION_TYPE_DESC:** Description of collision (Head on righ turn, same direction rear end, etc.) |
+| **RD_COND_DESC:** Description of the road condition (No defects or defects) |
+| **RD_DIV_DESC:** Description of road divided (Two-way, divided, one-way) |
+| **LIGHT_DESC:** Description of light time (Daylight, Dark, etc.) |
+| **SURF_COND_DESC:** Description of surface condition (Dry, wet, etc.) |
+| **WEATHER_DESC:** Description of weather condition (Blowing sand, clear, raining) |
+| **HARM_EVENT_DESC1:** Description of the cause of accident |
+| **HARM_EVENT_DESC2:** Description of the cause of accident2 |
+| **FEET_MILES_FLAG_DESC:** Description of feet or miles |
+| **FIX_OBJ_DESC:** Description of property near accident |
+| **ACC_DATE:** Accident Date |
+| **ACC_TIME:** Accident Time |
+| **SIGNAL_FLAG_DESC:** Yes or No, if direction was flagged |
+| **C_M_ZONE_FLAG:** Contains values of N or Y |
+| **DISTANCE_DIR_FLAG:** Distance of direction flagged (N, S, E, W) |
+| **JUNCTION_DESC:** Description of juntion (Alley, intersection, etc.) |
+| **LOG_MILE:** Distance of accident from survey zone |
+| **LOGMILE_DIR_FLAG_DESC:** Description of direction accident occurred (North, South, West, East) |
+| **DISTANCE:** Distance of the crash |
+| **REFERENCE_ROAD_NAME:** References of road name |
+
+
+</td><td>
+  
+| Data Types | 
+| --- |
+| object |
+| int64 |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| int64 |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+| object |
+  
+</td><td>
+  
+| Target | 
+| --- |
+| **REPORT_TYPE:** Type of accident reported (Property or Severe Crash) |
+  
+</td>
+</tr>
+</table>
 

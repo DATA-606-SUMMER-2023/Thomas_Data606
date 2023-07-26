@@ -105,14 +105,31 @@ The crash data for Maryland is obtained from https://opendata.maryland.gov/. Cr
 </td>
 </table>
 
-# EDA - Exploratory Data Analysis
-Visualizations link: https://github.com/tnguye53/Thomas_Data606/tree/main/docs/visualization
+# EDA - Exploratory Data Analysis 
+### Steps:
+- Extract the data source from openmaryland in form of CSV file and load it into pandas dataframe
+- Identify the dataset by using functions like info, describe, shape, isnull to peform analysis
+- Check for columns that has null values. If so, columns that have null values will be filled as 'Unknown'
+- Produce visualization with dataset
+- Develop insights by cleaning and manipulating the dataset to perform ML model 
 
+### Research Question(s):
 Given the data source, there are few questions in my analysis that I would like to address:
-- What is the number of crashes that occurred for each county?
-- Number of crashes for each year?
-- Does inclement weather condition impact more crashes?
-- What is the county with the most crashes? 
+1.  What is the number of crashes that occurred for each county?
+2.  Number of crashes for each year?
+3.  Does inclement weather condition impact more crashes?
+4.  What is the county with the most crashes?
+
+Link for visualizations: https://github.com/tnguye53/Thomas_Data606/tree/main/docs/visualization
+
+Link for Plotly express visualizations:
+- dsfsdf
+- fdsfsdf
+
+# Techniques and Models
+
+
+
 
 
 

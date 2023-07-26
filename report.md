@@ -1,4 +1,7 @@
 # Maryland Statewide Vehicle Crashes (2015-2022) 
+
+![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/02a15d39-0f38-4577-bdd0-583ebb69c068)
+
 ## Thomas Nguyen | Data 606 | Summer 2023 Capstone in Data Science 
 
 Data Source: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu
@@ -122,9 +125,10 @@ Given the data source, there are few questions in my analysis that I would like 
 
 Link for visualizations: https://github.com/tnguye53/Thomas_Data606/tree/main/docs/visualization
 
-Link for Plotly express visualizations:
-- dsfsdf
-- fdsfsdf
+Plotly express visualizations: 
+- https://github.com/tnguye53/Thomas_Data606/blob/main/docs/visualization/bar_plot.png 
+- https://github.com/tnguye53/Thomas_Data606/blob/main/docs/visualization/line_plot.png
+- https://github.com/tnguye53/Thomas_Data606/blob/main/docs/visualization/heatmap_plot.png
 
 # Techniques and Models
 

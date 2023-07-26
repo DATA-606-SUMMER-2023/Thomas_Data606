@@ -126,6 +126,29 @@ Given the data source, there are few questions in my analysis that I would like 
 Link for visualizations: https://github.com/tnguye53/Thomas_Data606/tree/main/docs/visualization
 
 # Techniques and Models
+The Machine Learning Models implemented for predicting Maryland Statewide Vehicle Crashes are three classification models. 
+
+#### Crash Severity Classification: 
+1. Random Forest
+2. Logistic Regression
+3. Decision Tree
+
+The various classification models selected will be executed to create statistical analysis, visualizations, accuracy, ROC curve, and confusion matrix. Based on the performance of the machine learning models, we chose the best fit model from precision (performance), recall, f1-score, and accuracy. 
+
+# Results of Models 
+We performed the three machine learning classification models (Random Forest, Logistic Regression, and Decision Tree) on the features (parameters) to predict our target variable. Classification model are showed along with accuracy score, ROC curve, and area of ROC Curve. 
+
+**Classification Model:**
+
+Accuracy of Random Forest algorithm is about 72%
+
+<img src="" width="400" height="350">
+
+Accuracy of Logistic Regression algorithm is about 72%
+
+Accuracy of Decision Tree model algorithm is about 68%
+
+
 
 
 

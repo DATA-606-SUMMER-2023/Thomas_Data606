@@ -1,7 +1,5 @@
 # Maryland Statewide Vehicle Crashes (2015-2022) 
 
-![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/02a15d39-0f38-4577-bdd0-583ebb69c068)
-
 ## Thomas Nguyen | Data 606 | Summer 2023 Capstone in Data Science 
 
 Data Source: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu
@@ -11,6 +9,9 @@ Youtube Video Link:
 Powerpoint link: 
 
 Github repo: 
+
+
+![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/02a15d39-0f38-4577-bdd0-583ebb69c068)
 
 # Abstract
 In the state of Maryland, vehicle crashes have risen a significant amount each year. Tens of thousands of collisions reported on average in the state of Maryland. Incidents that occurred in the statewide vehicle dataset examines factors like location, weather conditions, and time contributing the causes of crashes and trends. With modern technology, assessing the severity of crashes and vehicles involved, we can aim to identify potential risk that occurred in different counties of Maryland. The main objective of this project is to provide and predict the types and severity of crashes in the state of Maryland using ML. Predictions will help audiences understand the nature of accidents that occurred through various types of accidents. 

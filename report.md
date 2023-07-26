@@ -142,7 +142,7 @@ We performed the three machine learning classification models (Random Forest, Lo
 
 Accuracy of Random Forest algorithm is about 72%
 
-<img src="" width="400" height="350">
+<img src="[random_forest_results.png](https://github.com/tnguye53/Thomas_Data606/blob/main/ml/random_forest_results.png)" width="400" height="350">
 
 Accuracy of Logistic Regression algorithm is about 72%
 

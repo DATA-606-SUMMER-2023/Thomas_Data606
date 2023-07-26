@@ -95,6 +95,25 @@ The crash data for Maryland is obtained from https://opendata.maryland.gov/. Cr
 | --- |
 | **REPORT_TYPE:** Type of accident reported (Property or Severe crash) |
 
+</td><td> 
+
+| Data Types | 
+| --- |
+| object |
+
+
 </td>
 </table>
+
+# EDA - Exploratory Data Analysis
+Visualizations link: https://github.com/tnguye53/Thomas_Data606/tree/main/docs/visualization
+
+Given the data source, there are few questions in my analysis that I would like to address:
+- What is the number of crashes that occurred for each county?
+- Number of crashes for each year?
+- Does inclement weather condition impact more crashes?
+- What is the county with the most crashes? 
+
+
+
 

@@ -24,7 +24,7 @@ The crash data for Maryland is obtained from https://opendata.maryland.gov/. Cr
 
 ### Columns: 
 <table> 
-<tr><th></th> <th><th>Target</th></tr>
+<tr></tr>
 <tr><td>
 
 | Features| 
@@ -82,13 +82,19 @@ The crash data for Maryland is obtained from https://opendata.maryland.gov/. Cr
 | object |
 | object |
   
-</td><td>
+</td>
+</tr>
+</table>
+
+
+<table> 
+<tr></tr>
+<tr><td>
   
 | Target | 
 | --- |
-| **REPORT_TYPE:** Type of accident reported (Property or Severe Crash) |
-  
+| **REPORT_TYPE:** Type of accident reported (Property or Severe crash) |
+
 </td>
-</tr>
 </table>
 

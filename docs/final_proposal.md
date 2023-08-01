@@ -113,12 +113,12 @@ Machine Learning Models - **Classification Models:**
 # Research Question(s): 
 Given the data source, there are few questions in my analysis that I would like to address: 
 1. What is the number of crashes that occurred for each county?
-2. Number of crashes for each year? 
+2. What is the number of crashes for each year? 
 3. Does inclement weather condition impact more crashes?
 4. What is the county with the most crashes?
 
 # Outcome: 
-The goal of this project is to predict the types and serverity of crashes in the state of Maryland using ML. Prediction will help audiences understand the nature of accidents that occurred through various types of accidents. 
+The goal of this project is to predict the types and severity of crashes in the state of Maryland using ML. Prediction will help audiences understand the nature of accidents that occurred through various types of accidents. 
 
 # References: 
 - https://www.richinandgaines.com/blog/2022/09/maryland-ranks-6th-in-the-nation-for-car-crashes/

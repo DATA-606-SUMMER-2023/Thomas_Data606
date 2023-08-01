@@ -8,7 +8,7 @@ Youtube Video Link:
 
 Powerpoint link: 
 
-Github repo: 
+Github repo: https://github.com/DATA-606-SUMMER-2023/Thomas_Data606 
 
 
 ![image](https://github.com/tnguye53/Thomas_Data606/assets/54851527/02a15d39-0f38-4577-bdd0-583ebb69c068)

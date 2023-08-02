@@ -6,7 +6,7 @@ Data Source: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Veh
 
 Youtube Video Link: 
 
-Powerpoint link: 
+Powerpoint link: https://github.com/tnguye53/Thomas_Data606/blob/main/docs/data606_captstone.pptx
 
 Github repo: https://github.com/DATA-606-SUMMER-2023/Thomas_Data606 
 

@@ -120,7 +120,7 @@ The crash data for Maryland is obtained from https://opendata.maryland.gov/. Cr
 ### Research Question(s):
 Given the data source, there are few questions in my analysis that I would like to address:
 1.  What is the number of crashes that occurred for each county?
-2.  Number of crashes for each year?
+2.  What is the number of crashes for each year?
 3.  Does inclement weather condition impact more crashes?
 4.  What is the county with the most crashes?
 

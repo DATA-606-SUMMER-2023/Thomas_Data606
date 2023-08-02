@@ -173,7 +173,7 @@ Accuracy of Decision Tree model algorithm is about **68%**
 
 The confusion matrix displays the predicted and actual values of the best performed model. (Property Damage Crash vs Severe Crash)
 
-<img src="/ml/confusion_matrix.jpg" width="400" height="350">
+<img src="/ml/confusion_matrix_blues.jpg" width="400" height="300">
 
 # Conclusion
 Based on the overall results, random forest model and ROC curve value of .67 suggest that it provides a better discrimination compared to logistic regression and decision tree. 

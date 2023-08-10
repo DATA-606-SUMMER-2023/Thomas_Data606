@@ -4,7 +4,7 @@
 
 Data Source: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu
 
-Youtube Video Link: 
+Youtube Video Link: https://www.youtube.com/watch?v=BqYaAJVFkzI
 
 Powerpoint link: https://github.com/tnguye53/Thomas_Data606/blob/main/docs/data606_captstone.pptx
 
